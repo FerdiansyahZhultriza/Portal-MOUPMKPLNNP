@@ -1,0 +1,7 @@
+# Repository ini hanya untuk situs GitHub Pages Monitoring Batas DO.
+# Semua file DIABAIKAN, kecuali yang dikecualikan dengan tanda "!" di bawah.
+*
+
+# Yang boleh di-upload:
+!.gitignore
+!index.html
